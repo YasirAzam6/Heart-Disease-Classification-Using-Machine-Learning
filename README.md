@@ -97,13 +97,13 @@ The main objective of this project is to identify the best machine learning mode
 | Decision Tree Classifier | 0.5840                    | 0.5761        |
 | AdaBoost Classifier      | 0.6058                    | 0.5978        |
 | Random Forest            | 0.6288                    | 0.6739        |
-| XGBoost Classifier       | 0.6263                    | 0.6413        |
+| XGBoost Classifier       | 	0.8462                   | 0.8297        |
 | Support Vector Machine   | 0.5877                    | 0.5870        |
 | Naive Bayes Classifier   | 0.5780                    | 0.5435        |
 
 - **Best Model**: XGBoost Classifier
-  - **Cross-Validation Accuracy**: 0.6263
-  - **Test Accuracy**: 0.6413
+  - **Cross-Validation Accuracy**: 0.8462
+  - **Test Accuracy**: 0.8297
 
 ## Usage
 
